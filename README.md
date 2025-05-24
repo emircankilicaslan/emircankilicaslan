@@ -17,7 +17,7 @@ I am an Information Systems and Technologies student passionate about software d
 - **Beylikdüzü Municipality** – Intern (Provided software and hardware support)  
 
 ### Education
-- Bilkent University | Information Systems and Technologies | 
+- Bilkent University | Information Systems and Technologies  
 
 ### Contact
 - 📧 emircannkilicaslan@gmail.com  
