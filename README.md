@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I’m Emircan Kılıçaslan 👋
 
-<!--
-**emircankilicaslan/emircankilicaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am an Information Systems and Technologies student passionate about software development. I have a strong interest in **web development** and **data analysis** areas, and I plan to build my career in these fields.
 
-Here are some ideas to get you started:
+### Technical Skills
+- **Backend:** C#, .NET Core, ASP.NET Web API, MSSQL  
+- **Frontend:** Angular, HTML, CSS, JavaScript
+- **Data Analysis:** Python, R, Pandas, NumPy, Tableau 
+- **Mobile:** React Native (internship experience)  
+- **Databases:** MSSQL, MongoDB (basic)  
+- **Tools:** Visual Studio, VS Code, Git, Postman  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+- **Intertech** – Software Engineering Intern (Developed banking app using React Native)  
+- **ARKSOFT** – Backend Developer Intern (Worked with C# and .NET technologies)  
+- **Beylikdüzü Municipality** – Intern (Provided software and hardware support)  
+
+### Education
+- Bilkent University | Information Systems and Technologies | 
+
+### Contact
+- 📧 emircannkilicaslan@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/emircan-kılıçaslan)
+
+---
+
+**I am always eager to learn and explore new technologies!**
+
+Thank you 🙏
+
