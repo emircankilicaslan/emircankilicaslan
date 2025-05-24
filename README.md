@@ -4,11 +4,11 @@
 I am an Information Systems and Technologies student passionate about software development. I have a strong interest in **web development** and **data analysis** areas, and I plan to build my career in these fields.
 
 ### Technical Skills
-- **Backend:** C#, .NET Core, ASP.NET Web API, MSSQL  
-- **Frontend:** Angular, HTML, CSS, JavaScript
+- **Backend:** C#, .NET Core, ASP.NET Web API, MSSQL , Node.js
+- **Frontend:** Angular, HTML, CSS, JavaScript, Next.js
 - **Data Analysis:** Python, R, Pandas, NumPy, Tableau 
-- **Mobile:** React Native (internship experience)  
-- **Databases:** MSSQL, MongoDB (basic)  
+- **Mobile:** React Native 
+- **Databases:** MSSQL, MongoDB 
 - **Tools:** Visual Studio, VS Code, Git, Postman  
 
 ### Experience
@@ -17,7 +17,7 @@ I am an Information Systems and Technologies student passionate about software d
 - **Beylikdüzü Municipality** – Intern (Provided software and hardware support)  
 
 ### Education
-- Bilkent University | Information Systems and Technologies  
+- Bilkent University | Information Systems and Technologies | 
 
 ### Contact
 - 📧 emircannkilicaslan@gmail.com  
@@ -28,4 +28,5 @@ I am an Information Systems and Technologies student passionate about software d
 **I am always eager to learn and explore new technologies!**
 
 Thank you 🙏
+
 
