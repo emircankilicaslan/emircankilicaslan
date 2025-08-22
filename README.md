@@ -4,8 +4,8 @@
 I am an Graduate Information Systems and Technologies student passionate about software development. I have a strong interest in **web development** and **data analysis** areas, and I plan to build my career in these fields.
 
 ### Technical Skills
-- **Backend:** C#, .NET Core, ASP.NET Web API, MSSQL , Node.js
-- **Frontend:** Angular, HTML, CSS, JavaScript, Next.js
+- **Backend:** C#, .NET Core, ASP.NET Web API, Node.js
+- **Frontend:** Angular, React HTML, CSS, JavaScript, Next.js
 - **Data Analysis:** Python, R, Pandas, NumPy, Tableau 
 - **Mobile:** React Native 
 - **Databases:** MSSQL, MongoDB 
