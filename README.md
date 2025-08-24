@@ -7,17 +7,17 @@ I am an Graduate Information Systems and Technologies student passionate about s
 - **Backend:** C#, .NET Core, ASP.NET Web API, Node.js
 - **Frontend:** Angular, React HTML, CSS, JavaScript, Next.js
 - **Data Analysis:** Python, R, Pandas, NumPy, Tableau 
-- **Mobile:** React Native 
-- **Databases:** MSSQL, MongoDB 
+- **Mobile:** React Native,Flutter,Kotlin
+- **Databases:** MSSQL, MongoDB,PostreSQL
 - **Tools:** Visual Studio, VS Code, Git, Postman  
 
-### Experience
+### Experiences
 - **Intertech** – Software Engineering Intern (Developed banking app using React Native)  
 - **ARKSOFT** – Backend Developer Intern (Worked with C# and .NET technologies)  
-- **Beylikdüzü Municipality** – Intern (Provided software and hardware support)  
+-
 
 ### Education
-- Bilkent University | Information Systems and Technologies | 
+- Bilkent University | Information Systems and Technologies | Graduate
 
 ### Contact
 - 📧 emircannkilicaslan@gmail.com  
