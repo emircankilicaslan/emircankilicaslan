@@ -5,7 +5,7 @@ I am an Graduate Information Systems and Technologies student passionate about s
 
 ### Technical Skills
 - **Backend:** C#, .NET Core, ASP.NET Web API, Node.js
-- **Frontend:** Angular, React HTML, CSS, JavaScript, Next.js
+- **Frontend:** Angular, React, HTML, CSS, JavaScript, Next.js
 - **Data Analysis:** Python, R, Pandas, NumPy, Tableau 
 - **Mobile:** React Native,Flutter,Kotlin
 - **Databases:** MSSQL, MongoDB,PostreSQL
@@ -14,7 +14,7 @@ I am an Graduate Information Systems and Technologies student passionate about s
 ### Experiences
 - **Intertech** – Software Engineering Intern (Developed banking app using React Native)  
 - **ARKSOFT** – Backend Developer Intern (Worked with C# and .NET technologies)  
--
+
 
 ### Education
 - Bilkent University | Information Systems and Technologies | Graduate
