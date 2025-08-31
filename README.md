@@ -1,7 +1,7 @@
 # Hello, I’m Emircan Kılıçaslan 👋
 
 ### About Me
-I am an Graduate Information Systems and Technologies student passionate about software development. I have a strong interest in **web development** and **data analysis** areas, and I plan to build my career in these fields.
+I am an Graduate Information Systems and Technologies student at Bilkent University and passionate about software development. I have a strong interest in **web development** and **data analysis** areas, and I plan to build my career in these fields.
 
 ### Technical Skills
 - **Backend:** C#, .NET Core, ASP.NET Web API, Node.js
