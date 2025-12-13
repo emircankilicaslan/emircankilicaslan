@@ -13,9 +13,9 @@ I am a Graduate Information Systems and Technologies student at Bilkent Universi
 
 ### Experiences
 
-- **Senswise** - Backend Developer
+- **Senswise**  - Backend Developer
 - **Intertech** – Software Engineering Intern (Developed banking app using React Native)  
-- **ARKSOFT** – Backend Developer Intern (Worked with C# and .NET technologies)  
+- **ARKSOFT** –   Backend Developer Intern (Worked with C# and .NET technologies)  
 
 
 ### Education
