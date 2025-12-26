@@ -5,9 +5,9 @@ I am a Graduate Information Systems and Technologies student at Bilkent Universi
 
 ### Technical Skills
 - **Backend:** C#, .NET Core, ASP.NET Web API, Node.js
-- **Frontend:** Angular, React, HTML, CSS, JavaScript, Next.js
+- **Frontend:** Angular, React Native, HTML, CSS, JavaScript
 - **Data Analysis:** Python, R, Pandas, NumPy, Tableau 
-- **Mobile:** React Native,Flutter,Kotlin
+- **Mobile:** Flutter,Kotlin
 - **Databases:** MSSQL, MongoDB,PostreSQL
 - **Tools:** Visual Studio, VS Code, Git, Postman  
 
