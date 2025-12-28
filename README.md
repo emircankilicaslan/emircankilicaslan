@@ -9,7 +9,7 @@ I am a Graduate Information Systems and Technologies student at Bilkent Universi
 - **Data Analysis:** Python, R, Pandas, NumPy, Tableau
 - **Mobile:** Flutter, Kotlin
 - **Databases:** MSSQL, MongoDB, PostgreSQL, SQLite
-- **Tools:** Visual Studio, VS Code, Git, Postman
+- **Tools:** Visual Studio, VS Code, Git, Postman,Docker
 
 ### Experiences
 - **Senswise** – Backend Developer
