@@ -4,7 +4,7 @@
 I am a Graduate Information Systems and Technologies student at Bilkent University and passionate about software development. I have a strong interest in **web development** and **data analysis** areas, and I plan to build my career in these fields.
 
 ### Technical Skills
-- **Backend:** C#, .NET Core, ASP.NET Web API, Node.js
+- **Backend:** C#, .NET Core, ASP.NET Web API, Java
 - **Frontend:** Angular, React Native, HTML, CSS, JavaScript
 - **Data Analysis:** Python, R, Pandas, NumPy, Tableau 
 - **Mobile:** Flutter,Kotlin
