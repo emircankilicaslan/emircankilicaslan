@@ -12,7 +12,7 @@ I am a graduate of Information Systems and Technologies from Bilkent University 
 - **Tools:** Visual Studio, VS Code, Git, Postman, Docker
 
 ### Experiences
-- **Senswise** – Backend Developer
+- **Senswise** – Backend Developer (09/2025-12/2025)
 - **Intertech** – Software Engineering Intern (Developed banking app using React Native)
 - **ARKSOFT** – Backend Developer Intern (Worked with C# and .NET technologies)
 
