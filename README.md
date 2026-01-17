@@ -5,7 +5,7 @@ I am a graduate of Information Systems and Technologies from Bilkent University 
 
 ### Technical Skills
 - **Backend:** C#, .NET Core, ASP.NET Web API, Java, Go (Golang)
-- **Frontend:** Angular, React Native, React.js, JavaScript
+- **Frontend:** Angular, React Native, TypeScript, JavaScript
 - **Data Analysis:** Python, R, Pandas, NumPy, Tableau
 - **Mobile:** Flutter, Kotlin
 - **Databases:** MSSQL, MongoDB, PostgreSQL, SQLite
