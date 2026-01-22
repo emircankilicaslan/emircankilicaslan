@@ -69,7 +69,7 @@ Visual Studio, VS Code, Git, Postman, Docker
 
 ---
 
-## 🎨 Badges (Gradient & Hover Animated)
+## 🎨 Badges 
 
 [![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&colorA=61dafb&colorB=239120)](https://docs.microsoft.com/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&colorA=61dafb&colorB=512BD4)](https://dotnet.microsoft.com/)
