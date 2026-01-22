@@ -5,7 +5,8 @@
 ---
 
 ## About Me
-I am a graduate of Information Systems and Technologies from Bilkent University and passionate about software development. I focus on **web development**, **backend engineering**, and **data analysis**.
+I am a graduate of Information Systems and Technologies from Bilkent University and passionate about software development. I focus on **web development**, **backend engineering**, and **data analysis**.  
+I am seeking opportunities to contribute to scalable backend systems and modern web applications.
 
 ---
 
@@ -31,7 +32,7 @@ Visual Studio, VS Code, Git, Postman, Docker
 
 ---
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Stats (All Time)
 
 ![Emircan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankilicaslan&layout=compact&theme=radical&hide_border=true&langs_count=10)
