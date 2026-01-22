@@ -63,16 +63,18 @@ Visual Studio, VS Code, Git, Postman, Docker
 ---
 
 ## 📫 Contact
-- 📧 Email: emircannkilicaslan@gmail.com  
-- 💼 LinkedIn: [in/emircan-kilicaslan](https://www.linkedin.com/in/emircan-kilicaslan)  
+[![Gmail](https://img.shields.io/badge/Email-emircannkilicaslan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emircannkilicaslan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emircan%20K%C4%B1l%C4%B1%C3%A7aslan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emircan-kilicaslan)
+[![GitHub](https://img.shields.io/badge/GitHub-emircankilicaslan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emircankilicaslan)
 
 ---
 
-## 🎨 Badges
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+## 🎨 Badges (Hover & Animated)
+
+[![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 
