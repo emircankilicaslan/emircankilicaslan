@@ -1,5 +1,8 @@
 # Hello, I’m Emircan Kılıçaslan 👋
-![Profile views](https://komarev.com/ghpvc/?username=emircankilicaslan&color=007bff)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emircankilicaslan&color=007bff" alt="Profile views"/>
+</p>
 
 ## About Me
 I am a graduate of Information Systems and Technologies from Bilkent University and am passionate about software development. I have a strong interest in web development and data analysis, and I plan to build my career in these fields.
