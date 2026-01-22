@@ -1,6 +1,6 @@
 # Hello, I’m Emircan Kılıçaslan 👋
 
-![Profile views](https://views.igorkowalczyk.dev/api/badge/emircankilicaslan?style=flat&color=blue)
+![Profile Views](https://views.igorkowalczyk.dev/api/badge/emircankilicaslan?style=flat&color=blue)
 
 ---
 
@@ -33,8 +33,8 @@ Visual Studio, VS Code, Git, Postman, Docker
 
 ## 🚀 GitHub Stats
 
-![Emircan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankilicaslan&layout=compact&theme=radical&hide_border=true)
+![Emircan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankilicaslan&layout=compact&theme=radical&hide_border=true&langs_count=10)
 
 ---
 
@@ -50,11 +50,9 @@ Visual Studio, VS Code, Git, Postman, Docker
 
 ---
 
-
 ## 📫 Contact
 - 📧 Email: emircannkilicaslan@gmail.com  
 - 💼 LinkedIn: [in/emircan-kilicaslan](https://www.linkedin.com/in/emircan-kilicaslan)  
-- 🌐 Portfolio / Website: *(if available)*  
 
 ---
 
