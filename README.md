@@ -69,12 +69,12 @@ Visual Studio, VS Code, Git, Postman, Docker
 
 ---
 
-## 🎨 Badges (Hover & Animated)
+## 🎨 Badges (Animated / Gradient)
 
-[![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120&colorA=61dafb&colorB=239120)](https://docs.microsoft.com/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=512BD4&colorA=61dafb&colorB=512BD4)](https://dotnet.microsoft.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB&colorA=61dafb&colorB=0d1117)](https://reactjs.org/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&colorA=61dafb&colorB=3776AB)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396&colorA=61dafb&colorB=007396)](https://www.java.com/)
+[![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8&colorA=61dafb&colorB=00ADD8)](https://golang.org/)
 
