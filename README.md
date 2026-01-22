@@ -22,9 +22,6 @@ React, React Native, TypeScript, JavaScript
 ### Data Analysis
 Python, R, Pandas, NumPy, Tableau  
 
-### Mobile
-Flutter, Kotlin  
-
 ### Databases
 MSSQL, MongoDB, PostgreSQL, SQLite  
 
