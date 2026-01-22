@@ -17,7 +17,7 @@ I am seeking opportunities to contribute to scalable backend systems and modern 
 C#, .NET Core, ASP.NET Web API, Java, Go (Golang)  
 
 ### Frontend
-Angular, React , TypeScript, JavaScript  
+React, React Native, TypeScript, JavaScript  
 
 ### Data Analysis
 Python, R, Pandas, NumPy, Tableau  
@@ -35,8 +35,8 @@ Visual Studio, VS Code, Git, Postman, Docker
 
 ## 🚀 GitHub Stats (All Time)
 
-![Emircan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=merko&hide_border=false&count_private=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankilicaslan&layout=compact&theme=merko&hide_border=false&langs_count=10)
+![Emircan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=merko&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankilicaslan&layout=compact&theme=merko&hide_border=true&langs_count=10)
 
 ---
 
@@ -61,7 +61,7 @@ Visual Studio, VS Code, Git, Postman, Docker
 ## 🎨 Badges
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
