@@ -17,7 +17,7 @@ I am seeking opportunities to contribute to scalable backend systems and modern 
 C#, .NET Core, ASP.NET Web API, Java, Go (Golang)  
 
 ### Frontend
-React, React Native, TypeScript, JavaScript  
+React, TypeScript, JavaScript  
 
 ### Data Analysis
 Python, R, Pandas, NumPy, Tableau  
