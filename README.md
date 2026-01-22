@@ -40,6 +40,16 @@ Visual Studio, VS Code, Git, Postman, Docker
 
 ---
 
+## 📊 GitHub Activity Overview
+
+![Emircan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=emircankilicaslan&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&hide_border=true)
+
+- Contributed to **22 repositories**  
+- Code Reviews & Pull Requests: **6%**  
+- Opened / Participated in Issues: **6%**
+
+---
+
 ## 💼 Experiences
 - **Senswise** – Backend Developer (09/2025-12/2025)  
 - **Intertech** – Software Engineering Intern (React Native banking app)  
@@ -65,3 +75,4 @@ Visual Studio, VS Code, Git, Postman, Docker
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
