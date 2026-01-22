@@ -1,11 +1,12 @@
 # Hello, I’m Emircan Kılıçaslan 👋
 
-![Profile Views](https://views.igorkowalczyk.dev/api/badge/emircankilicaslan?style=flat&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=emircankilicaslan&style=flat-square&color=blue)
 
 ---
 
 ## About Me
-I am a graduate of Information Systems and Technologies from Bilkent University and passionate about software development. I focus on **web development**, **backend engineering**, and **data analysis**.  
+I am a graduate of Information Systems and Technologies from Bilkent University and passionate about software development.  
+I focus on **web development**, **backend engineering**, and **data analysis**.  
 I am seeking opportunities to contribute to scalable backend systems and modern web applications.
 
 ---
@@ -34,8 +35,8 @@ Visual Studio, VS Code, Git, Postman, Docker
 
 ## 🚀 GitHub Stats (All Time)
 
-![Emircan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankilicaslan&layout=compact&theme=radical&hide_border=true&langs_count=10)
+![Emircan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=merko&hide_border=false&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankilicaslan&layout=compact&theme=merko&hide_border=false&langs_count=10)
 
 ---
 
@@ -62,4 +63,6 @@ Visual Studio, VS Code, Git, Postman, Docker
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
