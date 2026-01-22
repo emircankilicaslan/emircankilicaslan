@@ -1,9 +1,10 @@
 # Hello, I’m Emircan Kılıçaslan 👋
+![Profile views](https://komarev.com/ghpvc/?username=emircankilicaslan&color=007bff)
 
-### About Me
+## About Me
 I am a graduate of Information Systems and Technologies from Bilkent University and am passionate about software development. I have a strong interest in web development and data analysis, and I plan to build my career in these fields.
 
-### Technical Skills
+## Technical Skills
 - **Backend:** C#, .NET Core, ASP.NET Web API, Java, Go (Golang)
 - **Frontend:** Angular, React Native, TypeScript, JavaScript
 - **Data Analysis:** Python, R, Pandas, NumPy, Tableau
@@ -11,20 +12,14 @@ I am a graduate of Information Systems and Technologies from Bilkent University 
 - **Databases:** MSSQL, MongoDB, PostgreSQL, SQLite
 - **Tools:** Visual Studio, VS Code, Git, Postman, Docker
 
-### Experiences
+## Experiences
 - **Senswise** – Backend Developer (09/2025-12/2025)
 - **Intertech** – Software Engineering Intern (Developed banking app using React Native)
 - **ARKSOFT** – Backend Developer Intern (Worked with C# and .NET technologies)
 
-### Education
+## Education
 - **Bilkent University** | Information Systems and Technologies | Graduate
 
-### Contact
+## Contact
 - 📧 emircannkilicaslan@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/emircan-kilicaslan/)
-
----
-
-**I am always eager to learn and explore new technologies!**
-
-Thank you 🙏
+- 💼 [LinkedIn](https://www.linkedin.com/in/emircan-kilicaslan)
