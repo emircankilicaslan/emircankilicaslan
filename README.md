@@ -2,28 +2,70 @@
 
 ![Profile views](https://views.igorkowalczyk.dev/api/badge/emircankilicaslan?style=flat&color=blue)
 
+---
+
 ## About Me
-I am a graduate of Information Systems and Technologies from Bilkent University and am passionate about software development. I have a strong interest in web development and data analysis, and I plan to build my career in these fields.
+I am a graduate of Information Systems and Technologies from Bilkent University and passionate about software development. I focus on **web development**, **backend engineering**, and **data analysis**.
 
-## Technical Skills
-- **Backend:** C#, .NET Core, ASP.NET Web API, Java, Go (Golang)  
-- **Frontend:** Angular, React Native, TypeScript, JavaScript  
-- **Data Analysis:** Python, R, Pandas, NumPy, Tableau  
-- **Mobile:** Flutter, Kotlin  
-- **Databases:** MSSQL, MongoDB, PostgreSQL, SQLite  
-- **Tools:** Visual Studio, VS Code, Git, Postman, Docker  
+---
 
-## Experiences
+## 🛠️ Technical Skills
+
+### Backend
+C#, .NET Core, ASP.NET Web API, Java, Go (Golang)  
+
+### Frontend
+Angular, React Native, TypeScript, JavaScript  
+
+### Data Analysis
+Python, R, Pandas, NumPy, Tableau  
+
+### Mobile
+Flutter, Kotlin  
+
+### Databases
+MSSQL, MongoDB, PostgreSQL, SQLite  
+
+### Tools & Platforms
+Visual Studio, VS Code, Git, Postman, Docker  
+
+---
+
+## 🚀 GitHub Stats
+
+![Emircan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankilicaslan&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 💼 Experiences
 - **Senswise** – Backend Developer (09/2025-12/2025)  
-- **Intertech** – Software Engineering Intern (Developed banking app using React Native)  
-- **ARKSOFT** – Backend Developer Intern (Worked with C# and .NET technologies)  
+- **Intertech** – Software Engineering Intern (React Native banking app)  
+- **ARKSOFT** – Backend Developer Intern (C# & .NET technologies)  
 
-## Education
+---
+
+## 🎓 Education
 - **Bilkent University** | Information Systems and Technologies | Graduate  
 
-## GitHub Stats
-![Emircan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=dark)
+---
 
-## Contact
+## 📂 Projects
+- [**BookTrack**](https://github.com/emircankilicaslan/BookTrack) – ASP.NET Core Web API library management system with Angular frontend  
+- [Other notable projects…]  
+
+---
+
+## 📫 Contact
 - 📧 Email: emircannkilicaslan@gmail.com  
-- 💼 LinkedIn: [in/emircan-kilicaslan](https://www.linkedin.com/in/emircan-kilicaslan)
+- 💼 LinkedIn: [in/emircan-kilicaslan](https://www.linkedin.com/in/emircan-kilicaslan)  
+- 🌐 Portfolio / Website: *(if available)*  
+
+---
+
+## 🎨 Badges
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
