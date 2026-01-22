@@ -50,11 +50,6 @@ Visual Studio, VS Code, Git, Postman, Docker
 
 ---
 
-## 📂 Projects
-- [**BookTrack**](https://github.com/emircankilicaslan/BookTrack) – ASP.NET Core Web API library management system with Angular frontend  
-- [Other notable projects…]  
-
----
 
 ## 📫 Contact
 - 📧 Email: emircannkilicaslan@gmail.com  
