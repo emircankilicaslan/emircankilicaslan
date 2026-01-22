@@ -42,7 +42,7 @@ Visual Studio, VS Code, Git, Postman, Docker
 
 ## 📊 GitHub Activity Overview
 
-![Emircan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=emircankilicaslan&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&hide_border=true)
+![Emircan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emircankilicaslan&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&hide_border=true)
 
 - Contributed to **22 repositories**  
 - Code Reviews & Pull Requests: **6%**  
