@@ -1,6 +1,6 @@
 # Hello, I’m Emircan Kılıçaslan 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=emircankilicaslan&style=flat-square&color=blue)
+
 
 ---
 
