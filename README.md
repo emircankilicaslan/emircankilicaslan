@@ -30,12 +30,6 @@ Visual Studio, VS Code, Git, Postman, Docker
 
 ---
 
-## 🚀 GitHub Stats (All Time)
-
-![Emircan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=merko&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankilicaslan&layout=compact&theme=merko&hide_border=true&langs_count=10)
-
----
 
 ## 📊 GitHub Activity Overview
 
