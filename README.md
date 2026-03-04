@@ -14,19 +14,17 @@ I am seeking opportunities to contribute to scalable backend systems and modern 
 ## 🛠️ Technical Skills
 
 ### Backend
-C#, .NET Core, ASP.NET Web API, Java, Go (Golang)  
+C#, .NET Core, ASP.NET Web API, Java, Node.js
 
 ### Frontend
-React, TypeScript, JavaScript  
+React, TypeScript, JavaScript  , Next.js
 
 ### Data Analysis
 Python, R, Pandas, NumPy, Tableau  
 
 ### Databases
-MSSQL, MongoDB, PostgreSQL, SQLite  
+MSSQL, MongoDB, PostgreSQL, SQLite, Firebase 
 
-### Tools & Platforms
-Visual Studio, VS Code, Git, Postman, Docker  
 ---
 
 ## 💼 Experiences
