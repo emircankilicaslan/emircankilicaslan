@@ -27,16 +27,6 @@ MSSQL, MongoDB, PostgreSQL, SQLite
 
 ### Tools & Platforms
 Visual Studio, VS Code, Git, Postman, Docker  
-
----
-
-
-## 📊 GitHub Activity Overview
-
-![Emircan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emircankilicaslan&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&hide_border=true)
-
-
-
 ---
 
 ## 💼 Experiences
