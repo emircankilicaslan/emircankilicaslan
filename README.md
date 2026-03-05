@@ -30,7 +30,7 @@ MSSQL, MongoDB, PostgreSQL, SQLite, Firebase
 ## 💼 Experiences
 - **Senswise** – Backend Developer (09/2025-12/2025)  
 - **Intertech** – Software Engineer Intern
-- **ARKSOFT** – Backend Developer Intern (C# & .NET technologies)  
+- **ARKSOFT** – Backend Developer Intern
 
 ---
 
