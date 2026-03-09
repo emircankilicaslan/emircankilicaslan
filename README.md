@@ -31,7 +31,7 @@ MSSQL, MongoDB, PostgreSQL, SQLite, Firebase
 
 - **MapperX** – Full Stack Developer 
 
-- **Senswise** – Backend Developer (09/2025-12/2025)  
+- **Senswise** – Backend Developer  
 - **Intertech** – Software Engineer Intern
 - **ARKSOFT** – Backend Developer Intern
 
