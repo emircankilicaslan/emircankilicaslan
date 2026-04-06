@@ -20,7 +20,7 @@ Currently, I focus on delivering seamless user experiences while ensuring the da
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Emircan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emircankilicaslan&theme=transparent&hide_border=true" alt="Emircan's GitHub Streak" width="48%" />
+
 </p>
 
 
