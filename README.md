@@ -1,60 +1,50 @@
-# Hello, I’m Emircan Kılıçaslan 👋
+# 👨🏻‍💻 Emircan Kılıçaslan
 
-
-
----
-
-## About Me
-I am a graduate of Information Systems and Technologies from Bilkent University and passionate about software development.  
-I focus on **web development**, **backend engineering**, and **data analysis**.  
-I am seeking opportunities to contribute to scalable backend systems and modern web applications.
+**Backend-Driven Software Engineer · API Architecture · Scalable Systems**
 
 ---
 
-## 🛠️ Technical Skills
+### 🧠 Executive Summary
 
-### Backend
-C#, .NET Core, ASP.NET Web API, Java, Node.js
-
-### Frontend
-React, TypeScript, JavaScript  , Next.js
-
-### Data Analysis
-Python, R, Pandas, NumPy, Tableau  
-
-### Databases
-MSSQL, MongoDB, PostgreSQL, SQLite, Firebase 
+- **Role:** Backend-Focused Full-Stack Engineer
+- **Specialty:** Robust API Design, Database Architecture & System Integration
+- **Stack:** Python · C# (.NET) · Node.js · Next.js · PostgreSQL
+- **Mindset:** Clean Architecture · Performance-Obsessed · Data Integrity
 
 ---
 
-## 💼 Experiences
+### ⚙️ Core Technical Arsenal
 
-- **MapperX** – Full Stack Developer 
-
-- **Senswise** – Backend Developer  
-- **Intertech** – Software Engineer Intern
-- **ARKSOFT** – Backend Developer Intern
-
----
-
-## 🎓 Education
-- **Bilkent University** | Information Systems and Technologies | Graduate  
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | Python, C# (.NET), Node.js, Java, PHP |
+| **Frontend & Mobile** | Next.js, Flutter, Dart |
+| **Databases** | PostgreSQL, NoSQL, SQL, Firebase |
+| **Architecture** | RESTful APIs, Microservices basics, MVC, ORM |
 
 ---
 
-## 📫 Contact
-📧 Email: [emircannkilicaslan@gmail.com](mailto:emircannkilicaslan@gmail.com)  
-💼 LinkedIn: [in/emircan-kilicaslan](https://www.linkedin.com/in/emircan-kilicaslan)  
-🐙 GitHub: [emircankilicaslan](https://github.com/emircankilicaslan)  
+### 📐 System Quality & Engineering Approach
+
+| Quality Attribute | My Approach |
+| :--- | :--- |
+| **Performance** | Optimized database queries, efficient API routing, caching strategies. |
+| **Scalability** | Stateless API design, modular and decoupled backend services. |
+| **Maintainability** | Clean Code principles, SOLID, structured repository patterns. |
+| **Data Integrity** | Strict schema validations, relational consistency, transaction management. |
 
 ---
 
-## 🎨 Badges 
+### 🧠 Backend Architecture Workflow (Micro-Level)
 
-[![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&colorA=61dafb&colorB=239120)](https://docs.microsoft.com/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&colorA=61dafb&colorB=512BD4)](https://dotnet.microsoft.com/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&colorA=0d1117&colorB=61dafb)](https://reactjs.org/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&colorA=61dafb&colorB=3776AB)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&colorA=61dafb&colorB=007396)](https://www.java.com/)
-[![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white&colorA=61dafb&colorB=00ADD8)](https://golang.org/)
-
+```mermaid
+%%{init: { "theme": "base", "themeVariables": { "primaryColor": "#0d1117", "primaryTextColor": "#c9d1d9", "primaryBorderColor": "#58a6ff", "lineColor": "#8b949e", "fontFamily": "Fira Code", "fontSize": "14px" } }}%%
+graph LR
+    A[📱 Client Front/Mobile] -->|HTTPS / REST| B[🛡️ API Gateway / Auth]
+    B --> C[⚙️ Backend Services \n .NET / Python / Node]
+    C --> D[(🗄️ Database \n PostgreSQL / NoSQL)]
+    
+    style A fill:#0d1117,stroke:#3fb950,stroke-width:2px,color:#3fb950
+    style B fill:#0d1117,stroke:#a371f7,stroke-width:2px,color:#a371f7
+    style C fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#58a6ff
+    style D fill:#0d1117,stroke:#f0883e,stroke-width:2px,color:#f0883e
