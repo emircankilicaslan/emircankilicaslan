@@ -1,51 +1,18 @@
-# 👨🏻‍💻 Emircan Kılıçaslan
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=emircankilicaslan&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/emircankilicaslan?label=FOLLOWERS&style=for-the-badge&color=8A2BE2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/emircankilicaslan?label=TOTAL+STARS&style=for-the-badge&color=FFA500" alt="Stars" />
+</div>
 
-**Full-Stack Developer · Building End-to-End, Scalable Web & Mobile Solutions**
+<br>
 
----
+```text
+> whoami
 
-### 🧠 About Me
-
-I am a Full-Stack Software Developer with a solid academic foundation (Bilkent University, CTIS '25) and active industry experience. Having transitioned through 2 internships and 2 full-time engineering roles, I bridge the gap between clean frontend interfaces and robust backend architectures. 
-
-Currently, I focus on delivering seamless user experiences while ensuring the data layer and APIs are secure, optimized, and scalable.
-
-- **Focus:** Full-Stack Development, API Design, Database Management
-- **Current Stack:** Next.js, Flutter, Python, .NET (C#), Node.js, PostgreSQL
-- **Mindset:** Clean Code, Problem-Solving, Continuous Learning
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Emircan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emircankilicaslan&theme=transparent&hide_border=true" alt="Emircan's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emircankilicaslan&theme=transparent&hide_border=true&bg_color=00000000" alt="Emircan's Contribution Graph" width="100%" />
-</p>
-
----
-
-### ⚙️ My Technology Stack
-
-| Domain | Technologies I Work With |
-| :--- | :--- |
-| **Frontend & Mobile** | Next.js, React, JavaScript / TypeScript, Flutter, Dart |
-| **Backend & APIs** | Python, C# (.NET), Node.js, Java |
-| **Databases** | PostgreSQL, SQL, NoSQL, Firebase |
-| **Tools & Practices** | RESTful APIs, Git/GitHub, Object-Oriented Programming (OOP), MVC |
-
----
-
-### 📐 How I Build Systems
-
-Instead of just writing code, I try to understand the entire lifecycle of a feature—from the user's click to the database transaction. 
-
-```mermaid
-graph LR
-    A[💻 User Interface <br> Next.js / Flutter] -->|REST API Requests| B[⚙️ Backend Services <br> Python / .NET / Node]
-    B -->|Query & Mutate| C[(🗄️ Database <br> PostgreSQL / NoSQL)]
-
+  Name     —  Emircan Kılıçaslan
+  Role     —  Full-Stack Software Engineer
+  Focus    —  API Architecture · System Integration · Clean Code
+  Stack    —  Python · .NET 8 · Next.js · Flutter · PostgreSQL
+  Approach —  Problem-solver over syntax typist. Build robust engines.
+  Location —  Istanbul, Turkey TR
+  Status   —  ● OPEN TO WORK  /  ● BUILDING IN PUBLIC
