@@ -16,15 +16,8 @@ Currently, I focus on delivering seamless user experiences while ensuring the da
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Emircan's GitHub Stats" width="48%" />
-
-</p>
 
 
----
 
 ### ⚙️ My Technology Stack
 
