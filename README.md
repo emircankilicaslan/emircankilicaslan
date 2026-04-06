@@ -23,9 +23,6 @@ Currently, I focus on delivering seamless user experiences while ensuring the da
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emircankilicaslan&theme=transparent&hide_border=true" alt="Emircan's GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emircankilicaslan&theme=transparent&hide_border=true&bg_color=00000000" alt="Emircan's Contribution Graph" width="100%" />
-</p>
 
 ---
 
