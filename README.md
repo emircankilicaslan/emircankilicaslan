@@ -27,16 +27,4 @@ Currently, I focus on delivering seamless user experiences while ensuring the da
 
 ---
 
-### 📐 How I Build Systems
 
-Instead of just writing code, I try to understand the entire lifecycle of a feature—from the user's click to the database transaction. 
-
-```mermaid
-%%{init: { "theme": "base", "themeVariables": { "primaryColor": "#0d1117", "primaryTextColor": "#c9d1d9", "primaryBorderColor": "#58a6ff", "lineColor": "#8b949e", "fontFamily": "Fira Code", "fontSize": "14px" } }}%%
-graph LR
-    A[💻 User Interface \n Next.js / Flutter] -->|REST API Requests| B[⚙️ Backend Services \n Python / .NET / Node]
-    B -->|Query & Mutate| C[(🗄️ Database \n PostgreSQL / NoSQL)]
-    
-    style A fill:#0d1117,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style B fill:#0d1117,stroke:#a371f7,stroke-width:2px,color:#a371f7
-    style C fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#58a6ff
