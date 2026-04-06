@@ -18,14 +18,13 @@ Currently, I focus on delivering seamless user experiences while ensuring the da
 
 ### 📊 GitHub Stats
 
-> **Önemli Not:** Ekran görüntüsündeki gibi yerel GitHub profil grafiğinizi ve etkinlik özetinizi (commits, pull requests vb.) görmek için, GitHub profil ayarlarınızdan "Contribution settings" (Katkı ayarları) bölümüne gidip gerekli kutucukları işaretlemeniz gerekir. Bu bölümler kodla eklenemez, GitHub tarafından sunulan yerel profil özellikleridir. Aşağıdaki görsel kartlar ise üçüncü taraf API'leri ile oluşturulmuştur ve kodla entegre edilebilir.
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&title_color=8A2BE2&icon_color=00FFFF&text_color=B0C4DE&bg_color=1A1A1A&hide_border=true&count_private=true" alt="Emircan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Emircan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emircankilicaslan&theme=transparent&hide_border=true" alt="Emircan's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://contribution-graph.com/api?username=emircankilicaslan&theme=dark" alt="Emircan's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emircankilicaslan&theme=transparent&hide_border=true&bg_color=00000000" alt="Emircan's Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -46,11 +45,6 @@ Currently, I focus on delivering seamless user experiences while ensuring the da
 Instead of just writing code, I try to understand the entire lifecycle of a feature—from the user's click to the database transaction. 
 
 ```mermaid
-%%{init: { "theme": "base", "themeVariables": { "primaryColor": "#0d1117", "primaryTextColor": "#c9d1d9", "primaryBorderColor": "#58a6ff", "lineColor": "#8b949e", "fontFamily": "Fira Code", "fontSize": "14px" } }}%%
 graph LR
-    A[💻 User Interface \n Next.js / Flutter] -->|REST API Requests| B[⚙️ Backend Services \n Python / .NET / Node]
-    B -->|Query & Mutate| C[(🗄️ Database \n PostgreSQL / NoSQL)]
-    
-    style A fill:#0d1117,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style B fill:#0d1117,stroke:#a371f7,stroke-width:2px,color:#a371f7
-    style C fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#58a6ff
+    A[💻 User Interface <br> Next.js / Flutter] -->|REST API Requests| B[⚙️ Backend Services <br> Python / .NET / Node]
+    B -->|Query & Mutate| C[(🗄️ Database <br> PostgreSQL / NoSQL)]
