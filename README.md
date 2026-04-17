@@ -28,13 +28,6 @@ Currently, I focus on delivering seamless user experiences while ensuring the da
 | **Databases** | PostgreSQL, SQL, NoSQL, Firebase |
 | **Tools & Practices** | RESTful APIs, Git/GitHub, Object-Oriented Programming (OOP), MVC |
 
----
 
-### 📐 How I Build Systems
 
-Instead of just writing code, I try to understand the entire lifecycle of a feature—from the user's click to the database transaction. 
 
-```mermaid
-graph LR
-    A[💻 User Interface <br> Next.js / Flutter] -->|REST API Requests| B[⚙️ Backend Services <br> Python / .NET / Node]
-    B -->|Query & Mutate| C[(🗄️ Database <br> PostgreSQL / NoSQL)]
