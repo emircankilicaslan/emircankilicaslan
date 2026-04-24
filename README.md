@@ -24,7 +24,7 @@ Currently, I focus on delivering seamless user experiences while ensuring the da
 | Domain | Technologies I Work With |
 | :--- | :--- |
 | **Frontend & Mobile** | Next.js, React, JavaScript / TypeScript, Flutter |
-| **Backend & APIs** | Python, C# (.NET), Node.js, Java, PHP |
+| **Backend & APIs** | Python, C# (.NET), Node.js, Java, PHP/Laravel |
 | **Databases** | PostgreSQL, MSSQL, NoSQL, Firebase |
 | **Tools & Practices** | RESTful APIs, Git/GitHub, Object-Oriented Programming (OOP), MVC |
 
