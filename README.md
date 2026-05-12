@@ -19,7 +19,7 @@ Currently, I focus on delivering seamless user experiences while ensuring the da
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emircankilicaslan&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankilicaslan&layout=compact&theme=radical)
+
 
 
 
