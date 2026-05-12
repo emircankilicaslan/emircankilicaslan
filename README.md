@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Emircan Kılıçaslan
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emircankilicaslan&theme=radical)
+
 
 **Full-Stack Developer · Building End-to-End, Scalable Web & Mobile Solutions**
 
@@ -17,7 +17,11 @@ Currently, I focus on delivering seamless user experiences while ensuring the da
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emircankilicaslan&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankilicaslan&layout=compact&theme=radical)
+
+![Emircan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=radical)
 
 
 ### ⚙️ My Technology Stack
