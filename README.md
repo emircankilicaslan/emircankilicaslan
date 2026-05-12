@@ -21,7 +21,7 @@ Currently, I focus on delivering seamless user experiences while ensuring the da
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankilicaslan&layout=compact&theme=radical)
 
-![Emircan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankilicaslan&show_icons=true&theme=radical)
+
 
 
 ### ⚙️ My Technology Stack
