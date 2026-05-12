@@ -1,4 +1,5 @@
 # 👨🏻‍💻 Emircan Kılıçaslan
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emircankilicaslan&theme=radical)
 
 **Full-Stack Developer · Building End-to-End, Scalable Web & Mobile Solutions**
 
