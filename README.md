@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-I am a Full-Stack Software Developer with a solid academic foundation (Bilkent University, CTIS '25) and active industry experience. Having transitioned through 2 internships and 2 full-time engineering roles, I bridge the gap between clean frontend interfaces and robust backend architectures. 
+I am a Full-Stack Software Developer with a solid academic foundation (Bilkent University, CTIS) and active industry experience. Having transitioned through 2 internships and 2 full-time engineering roles, I bridge the gap between clean frontend interfaces and robust backend architectures. 
 
 Currently, I focus on delivering seamless user experiences while ensuring the data layer and APIs are secure, optimized, and scalable.
 
