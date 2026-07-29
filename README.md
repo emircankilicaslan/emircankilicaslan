@@ -12,7 +12,7 @@ I am a Full-Stack Software Developer with a solid academic foundation (Bilkent U
 Currently, I focus on delivering seamless user experiences while ensuring the data layer and APIs are secure, optimized, and scalable.
 
 - **Focus:** Full-Stack Development, API Design, Database Management
-- **Current Stack:** Next.js, Flutter, Python, .NET (C#), Node.js, PostgreSQL
+- **Current Stack:** Next.js, Python, .NET (C#), Node.js, PostgreSQL
 - **Mindset:** Clean Code, Problem-Solving, Continuous Learning)
 
 
