@@ -13,11 +13,7 @@ Currently, I focus on delivering seamless user experiences while ensuring the da
 
 - **Focus:** Full-Stack Development, API Design, Database Management
 - **Current Stack:** Next.js, Flutter, Python, .NET (C#), Node.js, PostgreSQL
-- **Mindset:** Clean Code, Problem-Solving, Continuous Learning
-
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emircankilicaslan&theme=radical)
+- **Mindset:** Clean Code, Problem-Solving, Continuous Learning)
 
 
 
