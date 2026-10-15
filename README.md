@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-I am a Full-Stack Software Developer with a solid academic foundation (Bilkent University, CTIS) and active industry experience. Having transitioned through 2 internships and 3 full-time engineering roles, I bridge the gap between clean frontend interfaces and robust backend architectures.
+I am a Full-Stack Software Developer with a solid academic foundation (Bilkent University, CTIS) and active industry experience. Having worked through 2 internships and 3 full-time engineering roles, I bridge the gap between clean frontend interfaces and robust backend architectures.
 
 Since May 2026 I have been a Software Developer at **Future Ventures AG**, where I build and maintain internal web applications. I work across the whole stack, from data-heavy React interfaces and typed API routes to database queries and third-party integrations, with a strong focus on correctness, because people make decisions based on the numbers on screen.
 
@@ -18,11 +18,11 @@ Since May 2026 I have been a Software Developer at **Future Ventures AG**, where
 
 ### 💼 Currently: Software Developer @ Future Ventures AG (May 2026 – Present)
 
-- **End-to-end feature ownership:** From database queries and typed API routes to interactive React interfaces.
-- **Data integrations:** Connecting external data sources with fallbacks and sanity checks, so bad data never reaches the user interface.
-- **Data-heavy UX:** Interactive charts, advanced filtering, date-range analysis and export features, built so that pages stay fast.
-- **Quality engineering:** Introduced automated testing (Vitest) around business-critical calculations and API routes, verified with deliberate-bug (mutation-style) checks to prove the tests catch real regressions.
-- **Delivery:** Azure DevOps for source control and work tracking, with clear commit history and documented work items.
+- **End-to-end feature ownership:** Building features from database queries and typed API routes to interactive React interfaces.
+- **Data integrations:** Connecting external data sources with fallbacks and sanity checks, so bad data is caught before it reaches the user interface.
+- **Data-heavy UX:** Designing interactive charts, advanced filtering, date-range analysis and export features that stay fast.
+- **Quality engineering:** Introducing automated testing (Vitest) around business-critical calculations and API routes, and proving it works with deliberate-bug (mutation-style) checks that confirm the tests catch real regressions.
+- **Delivery:** Working with Azure DevOps for source control and work tracking, keeping a clear commit history and documented work items.
 
 
 ### ⚙️ My Technology Stack
