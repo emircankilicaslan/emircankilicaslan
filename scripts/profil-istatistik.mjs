@@ -93,8 +93,6 @@ export function renderBlock() {
   <source media="(prefers-color-scheme: dark)" srcset="assets/diller-koyu.svg">
   <img alt="Public repolarımdaki dil dağılımı" src="assets/diller-acik.svg">
 </picture>
-
-<sub>Bu grafik GitHub API'sinden otomatik üretilir (günlük güncellenir).</sub>
 ${END}`;
 }
 
