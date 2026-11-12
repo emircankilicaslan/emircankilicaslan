@@ -7,21 +7,21 @@
 
 ### 🧠 Hakkımda
 
-Bilkent Üniversitesi CTIS mezunuyum. 2 staj ve 3 tam zamanlı mühendislik rolü deneyimiyle, temiz arayüzler ile sağlam arka uç mimarileri arasındaki boşluğu kapatmaya odaklanıyorum.
+Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı iş deneyimim var; arayüzden veritabanına kadar bir uygulamanın tamamını yazmayı seviyorum.
 
-**Future Ventures AG**'de yazılım geliştirici olarak iç web uygulamaları geliştiriyorum (ayrıntılar aşağıda). Önceliğim doğruluk: ekrandaki sayılara bakarak karar verildiği için hatalı veri kullanıcıya ulaşmadan yakalanmalı.
+Şu an Future Ventures AG'de yazılım geliştirici olarak şirket içi web uygulamaları geliştiriyorum. En çok dikkat ettiğim konu doğruluk: insanlar ekrandaki rakamlara bakarak karar veriyor, bu yüzden hatalı bir veri kullanıcıya ulaşmadan yakalanmalı.
 
-- **Odak:** Full-stack geliştirme, API tasarımı, veritabanı yönetimi, veri yoğun web uygulamaları
-- **Güncel yığın:** Next.js, React, TypeScript, Python, .NET (C#), Java (Spring Boot), Node.js, PostgreSQL
-- **Yaklaşım:** Temiz kod, test, sürekli öğrenme
+- **Ağırlık verdiğim alanlar:** web uygulamaları, API tasarımı, veritabanı, çok veriyle çalışan ekranlar
+- **Sık kullandıklarım:** Next.js, React, TypeScript, Python, C# (.NET), Java (Spring Boot), Node.js, PostgreSQL
+- **Çalışma tarzım:** Kodu testle ilerletmeyi, yaptığım işi commit mesajlarında ve README'lerde yazılı bırakmayı tercih ederim
 
-### 💼 Şu an: Yazılım Geliştirici @ Future Ventures AG (Mayıs 2026 – devam)
+### 💼 Şu an: Future Ventures AG'de yazılım geliştirici (Mayıs 2026 – devam)
 
-- **Uçtan uca özellik sahipliği:** Veritabanı sorgusundan tip güvenli API rotalarına, etkileşimli React arayüzlerine kadar özellik geliştirme.
-- **Veri entegrasyonları:** Dış veri kaynaklarını yedek akışlar ve doğrulama kontrolleriyle bağlama.
-- **Veri yoğun kullanıcı deneyimi:** Etkileşimli grafikler, gelişmiş filtreleme, tarih aralığı analizi ve hızlı kalan dışa aktarma özellikleri.
-- **Kalite mühendisliği:** İş açısından kritik hesaplamalar ve API rotaları için otomatik testler (Vitest); testlerin gerçek regresyonları yakaladığını kasıtlı hata ekleyerek (mutasyon benzeri) doğrulama.
-- **Teslimat:** Azure DevOps ile kaynak kod ve iş takibi; düzenli commit geçmişi ve belgelenmiş iş kalemleri.
+- **Özellikleri baştan sona yazıyorum:** veritabanı sorgusundan API'ye, oradan React arayüzüne kadar.
+- **Dış veri kaynakları:** Dışarıdan gelen verileri sisteme bağlıyorum; kaynak yanıt vermezse yedek akışa geçiliyor, gelen veri doğrulamadan geçiyor.
+- **Veri ağırlıklı ekranlar:** grafikler, filtreleme, tarih aralığına göre analiz ve büyük veride de hızlı çalışan dışa aktarma.
+- **Testler:** İş açısından kritik hesaplamalar ve API rotaları için Vitest ile test yazıyorum. Testin işe yaradığından emin olmak için koda bilerek hata ekleyip testin bunu yakalayıp yakalamadığına bakıyorum.
+- **İş takibi:** Kaynak kod ve iş kalemleri Azure DevOps'ta duruyor; işler düzenli commit'lerle ve iş kalemleriyle takip ediliyor.
 
 ### ⚙️ Teknoloji Yığınım
 
@@ -53,7 +53,7 @@ Bilkent Üniversitesi CTIS mezunuyum. 2 staj ve 3 tam zamanlı mühendislik rol�
 | [**brand-intelligence-agent**](https://github.com/emircankilicaslan/brand-intelligence-agent) | Bir moda markası için yalnızca ad ve web adresinden Marka DNA raporu üreten ajan | Python, CLIP, scikit-learn, LLM |
 | [**e-belge-project**](https://github.com/emircankilicaslan/e-belge-project) | e-Fatura / e-Arşiv alış-satış fatura yönetimi (demo), UBL-TR XML çıktısı | PHP, JavaScript, PHPUnit |
 
-**Projelerimde uyguladığım pratikler:** GitHub Actions ile otomatik derleme ve test, veritabanı migrasyonları (EF Core / Flyway / Laravel), JWT ve rol bazlı yetkilendirme, girdi doğrulama, Docker ile paketleme, README'de belgelenmiş mimari kararlar.
+**Bu repolarda ortak olanlar:** GitHub Actions ile her push'ta derleme ve test, veritabanı değişiklikleri için migrasyon (EF Core, Flyway, Laravel), JWT ve rol bazlı yetki, girdi doğrulama, Docker ile paketleme ve mimari kararların README'de yazılı olması.
 
 ### 📫 İletişim
 
