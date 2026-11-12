@@ -9,7 +9,7 @@
 
 Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı mühendislik deneyimim var. Web uygulamalarının arayüzden veritabanına kadar tüm katmanlarında geliştirme yaptım.
 
-Future Ventures AG'de yazılım geliştirici olarak şirket içi web uygulamaları geliştiriyorum. Veri yoğun uygulamalarda veri doğruluğu ve tutarlılığı çalışmalarımın odağında yer alıyor; bu kapsamda veri doğrulama kontrolleri ve otomatik testler geliştiriyorum.
+Şu an Future Ventures AG'de, finans ekiplerinin günlük işlerinde kullandığı şirket içi web uygulamalarını geliştiriyorum. Odağım, veri yoğun uygulamalarda verinin doğru ve tutarlı kalması.
 
 - **Uzmanlık alanlarım:** web uygulamaları, API tasarımı, veritabanı yönetimi, veri yoğun arayüzler
 - **Teknolojiler:** Next.js, React, TypeScript, Python, C# (.NET), Java (Spring Boot), Node.js, PostgreSQL
@@ -17,11 +17,14 @@ Future Ventures AG'de yazılım geliştirici olarak şirket içi web uygulamalar
 
 ### 💼 Şu an: Future Ventures AG'de yazılım geliştirici (Mayıs 2026 – devam)
 
-- **Uçtan uca geliştirme:** Veritabanı sorgularından API katmanına ve React arayüzüne kadar özellikleri baştan sona geliştiriyorum.
-- **Veri entegrasyonu:** Dış veri kaynaklarını sisteme entegre ediyorum; kaynak yanıt vermediğinde yedek akış devreye giriyor, gelen veriler doğrulamadan geçiriliyor.
-- **Veri yoğun arayüzler:** Etkileşimli grafikler, gelişmiş filtreleme, tarih aralığı analizi ve büyük veri kümelerinde hızlı çalışan dışa aktarma özellikleri geliştirdim.
-- **Test:** İş açısından kritik hesaplamalar ve API rotaları için Vitest ile otomatik testler yazıyorum; testlerin gerçekten hata yakaladığını koda kasıtlı hata ekleyerek doğruluyorum.
-- **İş takibi:** Kaynak kod ve iş takibi Azure DevOps üzerinden yürütülüyor; çalışmalar düzenli commit'ler ve iş kalemleriyle belgeleniyor.
+Özellikleri veritabanı sorgusundan API katmanına, oradan React arayüzüne kadar uçtan uca geliştiriyorum.
+
+- **Veri yoğun arayüzler:** Büyük veri kümeleri üzerinde etkileşimli grafikler, gelişmiş filtreleme, tarih aralığı analizi ve dışa aktarma.
+- **Dış veri entegrasyonları:** Harici kaynaklardan gelen veri kullanılmadan önce doğrulanıyor; kaynak yanıt vermediğinde yedek akış devreye giriyor.
+- **Güvenilirlik:** İş açısından kritik hesaplamalar ve API rotaları için Vitest testleri yazıyorum. Testlerin gerçek hataları yakaladığını, koda kasıtlı hata ekleyerek doğruluyorum.
+- **Süreç:** Azure DevOps üzerinde iş kalemi, pull request ve gözden geçirme akışıyla, küçük ve izlenebilir commit'lerle çalışıyorum.
+
+**Kullandığım teknolojiler:** TypeScript, React, Next.js, Node.js, PostgreSQL, Prisma, Vitest
 
 ### ⚙️ Teknoloji Yığınım
 
