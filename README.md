@@ -7,21 +7,21 @@
 
 ### 🧠 Hakkımda
 
-Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı iş deneyimim var; arayüzden veritabanına kadar bir uygulamanın tamamını yazmayı seviyorum.
+Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı mühendislik deneyimim var. Web uygulamalarının arayüzden veritabanına kadar tüm katmanlarında geliştirme yaptım.
 
-Şu an Future Ventures AG'de yazılım geliştirici olarak şirket içi web uygulamaları geliştiriyorum. En çok dikkat ettiğim konu doğruluk: insanlar ekrandaki rakamlara bakarak karar veriyor, bu yüzden hatalı bir veri kullanıcıya ulaşmadan yakalanmalı.
+Şu an Future Ventures AG'de yazılım geliştirici olarak şirket içi web uygulamaları geliştiriyorum. Çalışmalarımda önceliğim veri doğruluğu: kullanıcılar ekrandaki rakamlara göre karar verdiği için hatalı verinin kullanıcıya ulaşmadan yakalanmasını sağlayan kontroller geliştiriyorum.
 
-- **Ağırlık verdiğim alanlar:** web uygulamaları, API tasarımı, veritabanı, çok veriyle çalışan ekranlar
-- **Sık kullandıklarım:** Next.js, React, TypeScript, Python, C# (.NET), Java (Spring Boot), Node.js, PostgreSQL
-- **Çalışma tarzım:** Kodu testle ilerletmeyi, yaptığım işi commit mesajlarında ve README'lerde yazılı bırakmayı tercih ederim
+- **Uzmanlık alanlarım:** web uygulamaları, API tasarımı, veritabanı yönetimi, veri yoğun arayüzler
+- **Teknolojiler:** Next.js, React, TypeScript, Python, C# (.NET), Java (Spring Boot), Node.js, PostgreSQL
+- **Çalışma yöntemim:** Geliştirmeyi otomatik testlerle destekler, yapılan işi commit mesajları ve README'lerle belgelerim
 
 ### 💼 Şu an: Future Ventures AG'de yazılım geliştirici (Mayıs 2026 – devam)
 
-- **Özellikleri baştan sona yazıyorum:** veritabanı sorgusundan API'ye, oradan React arayüzüne kadar.
-- **Dış veri kaynakları:** Dışarıdan gelen verileri sisteme bağlıyorum; kaynak yanıt vermezse yedek akışa geçiliyor, gelen veri doğrulamadan geçiyor.
-- **Veri ağırlıklı ekranlar:** grafikler, filtreleme, tarih aralığına göre analiz ve büyük veride de hızlı çalışan dışa aktarma.
-- **Testler:** İş açısından kritik hesaplamalar ve API rotaları için Vitest ile test yazıyorum. Testin işe yaradığından emin olmak için koda bilerek hata ekleyip testin bunu yakalayıp yakalamadığına bakıyorum.
-- **İş takibi:** Kaynak kod ve iş kalemleri Azure DevOps'ta duruyor; işler düzenli commit'lerle ve iş kalemleriyle takip ediliyor.
+- **Uçtan uca geliştirme:** Veritabanı sorgularından API katmanına ve React arayüzüne kadar özellikleri baştan sona geliştiriyorum.
+- **Veri entegrasyonu:** Dış veri kaynaklarını sisteme entegre ediyorum; kaynak yanıt vermediğinde yedek akış devreye giriyor, gelen veriler doğrulamadan geçiriliyor.
+- **Veri yoğun arayüzler:** Etkileşimli grafikler, gelişmiş filtreleme, tarih aralığı analizi ve büyük veri kümelerinde hızlı çalışan dışa aktarma özellikleri geliştirdim.
+- **Test:** İş açısından kritik hesaplamalar ve API rotaları için Vitest ile otomatik testler yazıyorum; testlerin gerçekten hata yakaladığını koda kasıtlı hata ekleyerek doğruluyorum.
+- **İş takibi:** Kaynak kod ve iş takibi Azure DevOps üzerinden yürütülüyor; çalışmalar düzenli commit'ler ve iş kalemleriyle belgeleniyor.
 
 ### ⚙️ Teknoloji Yığınım
 
@@ -53,7 +53,7 @@ Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı iş deneyim
 | [**brand-intelligence-agent**](https://github.com/emircankilicaslan/brand-intelligence-agent) | Bir moda markası için yalnızca ad ve web adresinden Marka DNA raporu üreten ajan | Python, CLIP, scikit-learn, LLM |
 | [**e-belge-project**](https://github.com/emircankilicaslan/e-belge-project) | e-Fatura / e-Arşiv alış-satış fatura yönetimi (demo), UBL-TR XML çıktısı | PHP, JavaScript, PHPUnit |
 
-**Bu repolarda ortak olanlar:** GitHub Actions ile her push'ta derleme ve test, veritabanı değişiklikleri için migrasyon (EF Core, Flyway, Laravel), JWT ve rol bazlı yetki, girdi doğrulama, Docker ile paketleme ve mimari kararların README'de yazılı olması.
+**Projelerimde uyguladığım yöntemler:** GitHub Actions ile her push'ta otomatik derleme ve test, veritabanı değişiklikleri için migrasyon (EF Core, Flyway, Laravel), JWT ve rol bazlı yetkilendirme, girdi doğrulama, Docker ile paketleme ve mimari kararların README'de belgelenmesi.
 
 ### 📫 İletişim
 
