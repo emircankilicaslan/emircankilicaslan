@@ -9,7 +9,7 @@
 
 Bilkent Üniversitesi CTIS mezunuyum. 2 staj ve 3 tam zamanlı mühendislik rolü deneyimiyle, temiz arayüzler ile sağlam arka uç mimarileri arasındaki boşluğu kapatmaya odaklanıyorum.
 
-Mayıs 2026'dan beri **Future Ventures AG**'de yazılım geliştirici olarak iç web uygulamaları geliştiriyor ve bakımını yapıyorum. Veri yoğun React arayüzlerinden tip güvenli API rotalarına, veritabanı sorgularından üçüncü taraf entegrasyonlarına kadar tüm katmanlarda çalışıyorum. Önceliğim doğruluk: ekrandaki sayılara bakarak karar verildiği için hatalı veri kullanıcıya ulaşmadan yakalanmalı.
+**Future Ventures AG**'de yazılım geliştirici olarak iç web uygulamaları geliştiriyorum (ayrıntılar aşağıda). Önceliğim doğruluk: ekrandaki sayılara bakarak karar verildiği için hatalı veri kullanıcıya ulaşmadan yakalanmalı.
 
 - **Odak:** Full-stack geliştirme, API tasarımı, veritabanı yönetimi, veri yoğun web uygulamaları
 - **Güncel yığın:** Next.js, React, TypeScript, Python, .NET (C#), Java (Spring Boot), Node.js, PostgreSQL
@@ -18,7 +18,7 @@ Mayıs 2026'dan beri **Future Ventures AG**'de yazılım geliştirici olarak iç
 ### 💼 Şu an: Yazılım Geliştirici @ Future Ventures AG (Mayıs 2026 – devam)
 
 - **Uçtan uca özellik sahipliği:** Veritabanı sorgusundan tip güvenli API rotalarına, etkileşimli React arayüzlerine kadar özellik geliştirme.
-- **Veri entegrasyonları:** Dış veri kaynaklarını yedek akışlar ve doğrulama kontrolleriyle bağlama; hatalı veri arayüze ulaşmadan yakalanır.
+- **Veri entegrasyonları:** Dış veri kaynaklarını yedek akışlar ve doğrulama kontrolleriyle bağlama.
 - **Veri yoğun kullanıcı deneyimi:** Etkileşimli grafikler, gelişmiş filtreleme, tarih aralığı analizi ve hızlı kalan dışa aktarma özellikleri.
 - **Kalite mühendisliği:** İş açısından kritik hesaplamalar ve API rotaları için otomatik testler (Vitest); testlerin gerçek regresyonları yakaladığını kasıtlı hata ekleyerek (mutasyon benzeri) doğrulama.
 - **Teslimat:** Azure DevOps ile kaynak kod ve iş takibi; düzenli commit geçmişi ve belgelenmiş iş kalemleri.
