@@ -49,6 +49,7 @@ Bilkent Üniversitesi CTIS mezunuyum. 2 staj ve 3 tam zamanlı mühendislik rol�
 | :--- | :--- | :--- |
 | [**StaffDesk**](https://github.com/emircankilicaslan/StaffDesk) | Personel izin ve zimmet yönetimi API'si: onay akışı, bakiye ve iş günü hesabı, birim bazlı yetki, zimmet geçmişi | Java 21, Spring Boot, PostgreSQL, Flyway, JWT, JUnit |
 | [**TrackDesk**](https://github.com/emircankilicaslan/TrackDesk) | Tesis bazlı arıza/talep takip API'si: SLA takibi, denetim kaydı, CSV dışa aktarma, rol bazlı yetki | C#, ASP.NET Core, EF Core, JWT, xUnit |
+| [**AssetPulse**](https://github.com/emircankilicaslan/AssetPulse) | Altyapı varlıkları (trafo, pist ışıklandırma, sinyal panosu) için ölçüm toplama ve alarm servisi: art arda ihlal ve histerezisli kurallar, alarm yaşam döngüsü, saatlik/günlük özet | C#, ASP.NET Core 8, Dapper, T-SQL, SQL Server, DbUp, JWT, xUnit |
 | [**Go-React-SSH-Terminal**](https://github.com/emircankilicaslan/Go-React-SSH-Terminal) | Tarayıcıdan SSH terminali: şifreli parola saklama, tek kullanımlık WebSocket bileti, host key doğrulama | Go, React, WebSocket, SQLite |
 | [**task-manager**](https://github.com/emircankilicaslan/task-manager) | Görev yönetimi: token tabanlı kimlik doğrulama, yetkilendirme politikaları, filtreleme ve sayfalama | Laravel 11, Next.js 14, TypeScript, PHPUnit, Vitest |
 | [**brand-intelligence-agent**](https://github.com/emircankilicaslan/brand-intelligence-agent) | Bir moda markası için yalnızca ad ve web adresinden Marka DNA raporu üreten ajan | Python, CLIP, scikit-learn, LLM |
