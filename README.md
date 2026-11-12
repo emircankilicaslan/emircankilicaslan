@@ -1,7 +1,7 @@
 # Merhaba, ben Emircan 👋
 
 **Full-Stack Yazılım Geliştirici** · Ankara, Türkiye
-*Full-stack software developer · Java · C# · TypeScript · Python*
+
 
 ---
 
