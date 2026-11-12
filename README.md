@@ -32,6 +32,17 @@ Bilkent Üniversitesi CTIS mezunuyum. 2 staj ve 3 tam zamanlı mühendislik rol�
 | **Veritabanı** | PostgreSQL, MSSQL, SQLite, NoSQL, Firebase |
 | **Araçlar ve pratikler** | REST API, JWT, Git/GitHub, GitHub Actions, Docker, Azure DevOps, otomatik test, OOP, MVC |
 
+### 📊 Kod İstatistikleri
+
+<!-- DIL-ISTATISTIGI:BASLA -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/diller-koyu.svg">
+  <img alt="Public repolarımdaki dil dağılımı" src="assets/diller-acik.svg">
+</picture>
+
+<sub>Bu grafik GitHub API'sinden otomatik üretilir (günlük güncellenir).</sub>
+<!-- DIL-ISTATISTIGI:BITIS -->
+
 ### 🚀 Öne Çıkan Projeler
 
 | Proje | Açıklama | Teknolojiler |
