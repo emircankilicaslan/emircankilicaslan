@@ -9,7 +9,7 @@
 
 Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı mühendislik deneyimim var. Web uygulamalarının arayüzden veritabanına kadar tüm katmanlarında geliştirme yaptım.
 
-Şu an Future Ventures AG'de yazılım geliştirici olarak şirket içi web uygulamaları geliştiriyorum. Çalışmalarımda önceliğim veri doğruluğu: kullanıcılar ekrandaki rakamlara göre karar verdiği için hatalı verinin kullanıcıya ulaşmadan yakalanmasını sağlayan kontroller geliştiriyorum.
+Future Ventures AG'de yazılım geliştirici olarak şirket içi web uygulamaları geliştiriyorum. Veri yoğun uygulamalarda veri doğruluğu ve tutarlılığı çalışmalarımın odağında yer alıyor; bu kapsamda veri doğrulama kontrolleri ve otomatik testler geliştiriyorum.
 
 - **Uzmanlık alanlarım:** web uygulamaları, API tasarımı, veritabanı yönetimi, veri yoğun arayüzler
 - **Teknolojiler:** Next.js, React, TypeScript, Python, C# (.NET), Java (Spring Boot), Node.js, PostgreSQL
