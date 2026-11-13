@@ -49,7 +49,7 @@ Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı mühendisli
 | Proje | Açıklama | Teknolojiler |
 | :--- | :--- | :--- |
 | [**StaffDesk**](https://github.com/emircankilicaslan/StaffDesk) | Personel izin ve zimmet yönetimi API'si: onay akışı, bakiye ve iş günü hesabı, birim bazlı yetki, zimmet geçmişi | Java 21, Spring Boot, PostgreSQL, Flyway, JWT, JUnit |
-| [**TrackDesk**](https://github.com/emircankilicaslan/TrackDesk) | Tesis bazlı arıza/talep takip API'si: SLA takibi, denetim kaydı, CSV dışa aktarma, rol bazlı yetki | C#, ASP.NET Core, EF Core, JWT, xUnit |
+| [**FacilityOps**](https://github.com/emircankilicaslan/FacilityOps) | Tesis bazlı arıza/talep takip API'si: SLA takibi, denetim kaydı, atanan ve metin filtreleri, CSV dışa aktarma, rol bazlı yetki | C#, ASP.NET Core, EF Core, JWT, xUnit |
 | [**AssetPulse**](https://github.com/emircankilicaslan/AssetPulse) | Altyapı varlıkları (trafo, pist ışıklandırma, sinyal panosu) için ölçüm toplama ve alarm platformu: REST API + MVC operatör paneli, art arda ihlal ve histerezisli kurallar, alarm yaşam döngüsü, grafikler | C#, ASP.NET Core 8 (API + MVC/Razor), Dapper, T-SQL, SQL Server, Bootstrap, Chart.js, JWT, xUnit |
 | [**Go-React-SSH-Terminal**](https://github.com/emircankilicaslan/Go-React-SSH-Terminal) | Tarayıcıdan SSH terminali: şifreli parola saklama, tek kullanımlık WebSocket bileti, host key doğrulama | Go, React, WebSocket, SQLite |
 | [**task-manager**](https://github.com/emircankilicaslan/task-manager) | Görev yönetimi: token tabanlı kimlik doğrulama, yetkilendirme politikaları, filtreleme ve sayfalama | Laravel 11, Next.js 14, TypeScript, PHPUnit, Vitest |
