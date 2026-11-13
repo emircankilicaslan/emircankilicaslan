@@ -59,9 +59,9 @@ Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı mühendisli
 
 #### Arayüzlerden görünümler
 
-| StaffDesk · izin bakiyesi | FacilityOps · SLA takibi | BookTrack · ödünç ve iade |
+| StaffDesk · izin bakiyesi | FacilityOps · SLA takibi | AssetPulse · varlık sağlığı paneli |
 | :---: | :---: | :---: |
-| <a href="https://github.com/emircankilicaslan/StaffDesk"><img src="https://raw.githubusercontent.com/emircankilicaslan/StaffDesk/main/docs/screenshots/arayuz-genel-bakis.jpg" width="300" alt="StaffDesk genel bakış"></a> | <a href="https://github.com/emircankilicaslan/FacilityOps"><img src="https://raw.githubusercontent.com/emircankilicaslan/FacilityOps/main/docs/screenshots/arayuz-liste.jpg" width="300" alt="FacilityOps arıza listesi"></a> | <a href="https://github.com/emircankilicaslan/BookTrack"><img src="https://raw.githubusercontent.com/emircankilicaslan/BookTrack/main/docs/screenshots/arayuz-iade.jpg" width="300" alt="BookTrack iade ekranı"></a> |
+| <a href="https://github.com/emircankilicaslan/StaffDesk"><img src="https://raw.githubusercontent.com/emircankilicaslan/StaffDesk/main/docs/screenshots/arayuz-genel-bakis.jpg" width="300" alt="StaffDesk genel bakış"></a> | <a href="https://github.com/emircankilicaslan/FacilityOps"><img src="https://raw.githubusercontent.com/emircankilicaslan/FacilityOps/main/docs/screenshots/arayuz-liste.jpg" width="300" alt="FacilityOps arıza listesi"></a> | <a href="https://github.com/emircankilicaslan/AssetPulse"><img src="https://raw.githubusercontent.com/emircankilicaslan/AssetPulse/main/docs/screenshots/panel.jpg" width="300" alt="AssetPulse genel durum paneli"></a> |
 
 **Projelerimde uyguladığım yöntemler:** GitHub Actions ile her push'ta otomatik derleme ve test, veritabanı değişiklikleri için migrasyon (EF Core, Flyway, Laravel), JWT ve rol bazlı yetkilendirme, girdi doğrulama, Docker ile paketleme ve mimari kararların README'de belgelenmesi.
 
