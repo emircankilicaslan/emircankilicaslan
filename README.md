@@ -48,13 +48,20 @@ Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı mühendisli
 
 | Proje | Açıklama | Teknolojiler |
 | :--- | :--- | :--- |
-| [**StaffDesk**](https://github.com/emircankilicaslan/StaffDesk) | Personel izin ve zimmet yönetimi API'si: onay akışı, bakiye ve iş günü hesabı, birim bazlı yetki, zimmet geçmişi | Java 21, Spring Boot, PostgreSQL, Flyway, JWT, JUnit |
-| [**FacilityOps**](https://github.com/emircankilicaslan/FacilityOps) | Tesis bazlı arıza/talep takip API'si: SLA takibi, denetim kaydı, atanan ve metin filtreleri, CSV dışa aktarma, rol bazlı yetki | C#, ASP.NET Core, EF Core, JWT, xUnit |
+| [**StaffDesk**](https://github.com/emircankilicaslan/StaffDesk) | Personel izin ve zimmet yönetimi API'si ve rol bazlı web portalı: onay akışı, bakiye ve iş günü hesabı, birim bazlı yetki, zimmet geçmişi | Java 21, Spring Boot, PostgreSQL, Flyway, JWT, JUnit |
+| [**FacilityOps**](https://github.com/emircankilicaslan/FacilityOps) | Tesis bazlı arıza/talep takip API'si ve SLA göstergeli web paneli: SLA takibi, denetim kaydı, atanan ve metin filtreleri, CSV dışa aktarma, rol bazlı yetki | C#, ASP.NET Core, EF Core, JWT, xUnit |
 | [**AssetPulse**](https://github.com/emircankilicaslan/AssetPulse) | Altyapı varlıkları (trafo, pist ışıklandırma, sinyal panosu) için ölçüm toplama ve alarm platformu: REST API + MVC operatör paneli, art arda ihlal ve histerezisli kurallar, alarm yaşam döngüsü, grafikler | C#, ASP.NET Core 8 (API + MVC/Razor), Dapper, T-SQL, SQL Server, Bootstrap, Chart.js, JWT, xUnit |
 | [**Go-React-SSH-Terminal**](https://github.com/emircankilicaslan/Go-React-SSH-Terminal) | Tarayıcıdan SSH terminali: şifreli parola saklama, tek kullanımlık WebSocket bileti, host key doğrulama | Go, React, WebSocket, SQLite |
 | [**task-manager**](https://github.com/emircankilicaslan/task-manager) | Görev yönetimi: token tabanlı kimlik doğrulama, yetkilendirme politikaları, filtreleme ve sayfalama | Laravel 11, Next.js 14, TypeScript, PHPUnit, Vitest |
 | [**brand-intelligence-agent**](https://github.com/emircankilicaslan/brand-intelligence-agent) | Bir moda markası için yalnızca ad ve web adresinden Marka DNA raporu üreten ajan | Python, CLIP, scikit-learn, LLM |
 | [**e-belge-project**](https://github.com/emircankilicaslan/e-belge-project) | e-Fatura / e-Arşiv alış-satış fatura yönetimi (demo), UBL-TR XML çıktısı | PHP, JavaScript, PHPUnit |
+| [**BookTrack**](https://github.com/emircankilicaslan/BookTrack) | Kütüphane ödünç takibi: iş günü bazlı teslim tarihi, gecikme cezası, ödünç geçmişi; web arayüzü ve 29 otomatik test | C#, ASP.NET Core 8, EF Core, SQL Server, xUnit |
+
+#### Arayüzlerden görünümler
+
+| StaffDesk · izin bakiyesi | FacilityOps · SLA takibi | BookTrack · ödünç ve iade |
+| :---: | :---: | :---: |
+| <a href="https://github.com/emircankilicaslan/StaffDesk"><img src="https://raw.githubusercontent.com/emircankilicaslan/StaffDesk/main/docs/screenshots/arayuz-genel-bakis.jpg" width="300" alt="StaffDesk genel bakış"></a> | <a href="https://github.com/emircankilicaslan/FacilityOps"><img src="https://raw.githubusercontent.com/emircankilicaslan/FacilityOps/main/docs/screenshots/arayuz-liste.jpg" width="300" alt="FacilityOps arıza listesi"></a> | <a href="https://github.com/emircankilicaslan/BookTrack"><img src="https://raw.githubusercontent.com/emircankilicaslan/BookTrack/main/docs/screenshots/arayuz-iade.jpg" width="300" alt="BookTrack iade ekranı"></a> |
 
 **Projelerimde uyguladığım yöntemler:** GitHub Actions ile her push'ta otomatik derleme ve test, veritabanı değişiklikleri için migrasyon (EF Core, Flyway, Laravel), JWT ve rol bazlı yetkilendirme, girdi doğrulama, Docker ile paketleme ve mimari kararların README'de belgelenmesi.
 
