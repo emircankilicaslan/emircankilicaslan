@@ -2,10 +2,6 @@
 
 **Full-Stack Yazılım Geliştirici** · Ankara, Türkiye
 
-[![Profil istatistikleri](https://github.com/emircankilicaslan/emircankilicaslan/actions/workflows/istatistik.yml/badge.svg)](https://github.com/emircankilicaslan/emircankilicaslan/actions/workflows/istatistik.yml)
-![Konum](https://img.shields.io/badge/Ankara-T%C3%BCrkiye-informational?style=flat&logo=googlemaps&logoColor=white)
-![Rol](https://img.shields.io/badge/Rol-Full--Stack-blue?style=flat)
-
 
 ---
 
@@ -60,23 +56,8 @@ Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı mühendisli
 | [**brand-intelligence-agent**](https://github.com/emircankilicaslan/brand-intelligence-agent) | Bir moda markası için yalnızca ad ve web adresinden Marka DNA raporu üreten ajan | Python, CLIP, scikit-learn, LLM |
 | [**e-belge-project**](https://github.com/emircankilicaslan/e-belge-project) | e-Fatura / e-Arşiv alış-satış fatura yönetimi (demo), UBL-TR XML çıktısı | PHP, JavaScript, PHPUnit |
 
-<details>
-<summary><b>Diğer projeler</b></summary>
-
-<br>
-
-| Proje | Açıklama | Teknolojiler |
-| :--- | :--- | :--- |
-| [**BookTrack**](https://github.com/emircankilicaslan/BookTrack) | Kitap ödünç verme ve iade takibi API'si: iş günü bazlı son teslim tarihi, gecikme ücreti hesabı | C#, .NET 8, EF Core, SQL Server |
-| [**factory-schedule**](https://github.com/emircankilicaslan/factory-schedule) | Fabrika iş emirlerini Gantt benzeri zaman çizelgesinde gösteren web uygulaması | Python, FastAPI, SQLAlchemy, PostgreSQL, React, Docker Compose |
-| [**Food-Ordering-System**](https://github.com/emircankilicaslan/Food-Ordering-System) | Nesne yönelimli programlama ile yazılmış yemek sipariş sistemi | Java |
-
-</details>
-
 **Projelerimde uyguladığım yöntemler:** GitHub Actions ile her push'ta otomatik derleme ve test, veritabanı değişiklikleri için migrasyon (EF Core, Flyway, Laravel), JWT ve rol bazlı yetkilendirme, girdi doğrulama, Docker ile paketleme ve mimari kararların README'de belgelenmesi.
 
 ### 📫 İletişim
-
-Yeni bir proje, iş birliği ya da sohbet için LinkedIn üzerinden ulaşabilirsiniz.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emircan--kilicaslan-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/emircan-kilicaslan)
