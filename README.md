@@ -48,14 +48,14 @@ Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı mühendisli
 
 | Proje | Açıklama | Teknolojiler |
 | :--- | :--- | :--- |
-| [**StaffDesk**](https://github.com/emircankilicaslan/StaffDesk) | Personel izin ve zimmet yönetimi API'si ve rol bazlı web portalı: onay akışı, bakiye ve iş günü hesabı, birim bazlı yetki, zimmet geçmişi | Java 21, Spring Boot, PostgreSQL, Flyway, JWT, JUnit |
-| [**FacilityOps**](https://github.com/emircankilicaslan/FacilityOps) | Tesis bazlı arıza/talep takip API'si ve SLA göstergeli web paneli: SLA takibi, denetim kaydı, atanan ve metin filtreleri, CSV dışa aktarma, rol bazlı yetki | C#, ASP.NET Core, EF Core, JWT, xUnit |
-| [**AssetPulse**](https://github.com/emircankilicaslan/AssetPulse) | Altyapı varlıkları (trafo, pist ışıklandırma, sinyal panosu) için ölçüm toplama ve alarm platformu: REST API + MVC operatör paneli, art arda ihlal ve histerezisli kurallar, alarm yaşam döngüsü, grafikler | C#, ASP.NET Core 8 (API + MVC/Razor), Dapper, T-SQL, SQL Server, Bootstrap, Chart.js, JWT, xUnit |
+| [**StaffDesk**](https://github.com/emircankilicaslan/StaffDesk) | Personel izin ve zimmet yönetimi API'si ve rol bazlı web portalı: onay akışı, bakiye ve iş günü hesabı, birim bazlı yetki, zimmet geçmişi, denetim kaydı (audit log), Excel çıktısı | Java 21, Spring Boot, PostgreSQL, Flyway, JWT, Docker, JUnit |
+| [**FacilityOps**](https://github.com/emircankilicaslan/FacilityOps) | Tesis bazlı arıza/talep takip API'si ve SLA göstergeli web paneli: SLA takibi, genel denetim kaydı (audit log), atanan ve metin filtreleri, CSV ve Excel dışa aktarma, rol bazlı yetki, SQL Server desteği | C#, ASP.NET Core, EF Core, SQL Server, JWT, Docker, xUnit |
+| [**AssetPulse**](https://github.com/emircankilicaslan/AssetPulse) | Altyapı varlıkları (trafo, pist ışıklandırma, sinyal panosu) için ölçüm toplama ve alarm platformu: REST API + MVC operatör paneli, art arda ihlal ve histerezisli kurallar, alarm yaşam döngüsü, grafikler, denetim kaydı (audit log), Excel/CSV çıktısı | C#, ASP.NET Core 8 (API + MVC/Razor), Dapper, T-SQL, SQL Server, Bootstrap, Chart.js, JWT, xUnit |
 | [**Go-React-SSH-Terminal**](https://github.com/emircankilicaslan/Go-React-SSH-Terminal) | Tarayıcıdan SSH terminali: şifreli parola saklama, tek kullanımlık WebSocket bileti, host key doğrulama | Go, React, WebSocket, SQLite |
 | [**task-manager**](https://github.com/emircankilicaslan/task-manager) | Görev yönetimi: token tabanlı kimlik doğrulama, yetkilendirme politikaları, filtreleme ve sayfalama | Laravel 11, Next.js 14, TypeScript, PHPUnit, Vitest |
 | [**brand-intelligence-agent**](https://github.com/emircankilicaslan/brand-intelligence-agent) | Bir moda markası için yalnızca ad ve web adresinden Marka DNA raporu üreten ajan | Python, CLIP, scikit-learn, LLM |
 | [**e-belge-project**](https://github.com/emircankilicaslan/e-belge-project) | e-Fatura / e-Arşiv alış-satış fatura yönetimi (demo), UBL-TR XML çıktısı | PHP, JavaScript, PHPUnit |
-| [**BookTrack**](https://github.com/emircankilicaslan/BookTrack) | Kütüphane ödünç takibi: iş günü bazlı teslim tarihi, gecikme cezası, ödünç geçmişi; web arayüzü ve 29 otomatik test | C#, ASP.NET Core 8, EF Core, SQL Server, xUnit |
+| [**BookTrack**](https://github.com/emircankilicaslan/BookTrack) | Kütüphane ödünç takibi: iş günü bazlı teslim tarihi, gecikme cezası, ödünç geçmişi, JWT ve rol bazlı yetki (Admin / Görevli), eş zamanlılık koruması; web arayüzü, Docker ve 75 otomatik test | C#, ASP.NET Core 8, EF Core, SQL Server, JWT, Docker, xUnit |
 
 #### Arayüzlerden görünümler
 
