@@ -4,7 +4,7 @@
 
 **Full-Stack Yazılım Geliştirici** · Ankara, Türkiye
 
-Kamu ve özel sektör için güvenilir, test edilmiş, izlenebilir kurumsal web uygulamaları geliştiriyorum.
+Güvenilir, test edilmiş, izlenebilir kurumsal web uygulamaları geliştiriyorum.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emircan--kilicaslan-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/emircan-kilicaslan)
 <!-- E-POSTA: aşağıdaki satırı kendi adresinle aç -->
@@ -74,7 +74,7 @@ Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı mühendisli
 
 ## 🚀 Öne Çıkan Projeler
 
-### Kurumsal / kamu tarzı iş uygulamaları
+### Kurumsal iş uygulamaları
 
 | Proje | Ne çözüyor | Öne çıkanlar | Teknolojiler |
 | :--- | :--- | :--- | :--- |
