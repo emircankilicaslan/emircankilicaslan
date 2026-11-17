@@ -122,4 +122,4 @@ Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı mühendisli
 
 ## 📫 İletişim
 
-[LinkedIn](https://linkedin.com/in/emircan-kilicaslan) üzerinden ulaşabilirsiniz. Kamu ve özel sektör, tam zamanlı pozisyonlara açığım.
+[LinkedIn](https://linkedin.com/in/emircan-kilicaslan) üzerinden ulaşabilirsiniz.
