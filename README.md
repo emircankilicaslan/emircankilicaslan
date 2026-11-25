@@ -9,13 +9,13 @@
 
 Bilkent Üniversitesi CTIS mezunuyum. İki staj ve üç tam zamanlı mühendislik deneyimim var. Web uygulamalarının arayüzden veritabanına kadar tüm katmanlarında geliştirme yaptım.
 
-Şu an Future Ventures AG'de, finans ekiplerinin günlük işlerinde kullandığı şirket içi web uygulamalarını geliştiriyorum. Odağım, veri yoğun uygulamalarda verinin doğru ve tutarlı kalması.
+Şu an Ankara'da Full-Stack Yazılım Geliştirici olarak, finans ekiplerinin günlük işlerinde kullandığı şirket içi web uygulamalarını geliştiriyorum. Odağım, veri yoğun uygulamalarda verinin doğru ve tutarlı kalması.
 
 - **Uzmanlık alanlarım:** web uygulamaları, API tasarımı, veritabanı yönetimi, veri yoğun arayüzler
 - **Teknolojiler:** Next.js, React, TypeScript, Python, C# (.NET), Java (Spring Boot), Node.js, PostgreSQL
 - **Çalışma yöntemim:** Geliştirmeyi otomatik testlerle destekler, yapılan işi commit mesajları ve README'lerle belgelerim
 
-### 💼 Şu an: Future Ventures AG'de yazılım geliştirici (Mayıs 2026 – devam)
+### 💼 Şu an: Full-Stack Yazılım Geliştirici · Ankara (Mayıs 2026 – devam)
 
 Özellikleri veritabanı sorgusundan API katmanına, oradan React arayüzüne kadar uçtan uca geliştiriyorum.
 
