@@ -17,7 +17,6 @@ Bilkent Üniversitesi CTIS mezunuyum. Web uygulamalarını arayüzden veritaban�
 | :--- | :--- |
 | **Günlük kullandığım** | TypeScript, React, Next.js, Node.js, PostgreSQL, Prisma, Tailwind CSS, Vitest, Git, Azure DevOps |
 | **Projelerde kullandığım** | C# / ASP.NET Core (EF Core, Dapper), Java 21 / Spring Boot, Python (FastAPI), SQL Server, Oracle, JWT, Docker, GitHub Actions, xUnit, JUnit |
-| **Temel düzeyde** | Go, PHP / Laravel, SQLite, Firebase |
 
 ### 📊 Kod İstatistikleri
 
